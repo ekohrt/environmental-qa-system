@@ -6,7 +6,7 @@
 
 A domain-specific QA system for answering questions about environmental issues.  
   
-The system uses the Haystack pipeline to answer questions by querying a set of environment-related Wikipedia articles (dataset <a href=https://github.com/ekohrt/wikipedia-environmental-articles-dataset>here</a>).
+The system uses the Haystack pipeline to answer questions by querying a set of environment-related Wikipedia articles (dataset <a href=https://github.com/ekohrt/wikipedia-environmental-articles-dataset>here</a>). Runs best in Google Colab.
 
 ## Example Output:  
   
